@@ -1,0 +1,13 @@
+#game-container{
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+#duck{
+	width:150px;
+	height:150px;
+	position:absolute;
+	top:250px;
+	left:700px;
+}
